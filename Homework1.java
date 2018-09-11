@@ -19,7 +19,7 @@ public static void main(String[] args){
          arr[i] = keyboard.nextInt();
      }
    
-   System.out.println("enter the number of times you would like to repeat your array");
+   System.out.println("Enter the number of times you would like to repeat your array");
     int reps = keyboard.nextInt();
     int[] b = repeat(arr, reps);
    
